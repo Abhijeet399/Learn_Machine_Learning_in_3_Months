@@ -37,6 +37,7 @@ https://github.com/NirantK/awesome-project-ideas
 ## Week 1 
 Intro to Deep Learning
 https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
+https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
 ## Week 2 
 Deep Learning by Fast.AI
